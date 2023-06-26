@@ -25,4 +25,4 @@ pnpm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 LIVE VERCEL:
-[https://post-crud.vercel.app/](https://post-crud.vercel.app/)
+[https://post-crud-six.vercel.app/](https://post-crud-six.vercel.app/)
