@@ -10,7 +10,7 @@ const List = ({posts}) => {
   }
 
   return (
-    <Box>
+    <Box style={{background: 'red'}}>
       {posts.map(post => (
         <Box key={post.id} mb={4} p={4} border="1px" borderColor="gray.300">
           <NextLink href={`/posts/${post.id}`} passHref>
